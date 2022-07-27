@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&family=Rampart+One&display=swap');
+
+body{
+    background-image: url("kingdomhearts.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:visited {
+    color: gray;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+h1{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Rampart One', cursive;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 50px;
+
+}
+
+#Navbar {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: stretch;
+    border-style:dashed;
+    border-color: blue;
+    border-width: 5px;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.image{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 700px;
+}
+
+.image2{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 700px;
+}
+
+.image3{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 850px;
+}
+
+.image4{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 875px;
+}
+
+h2{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    color: white;
+    font-size: 30px;
+    height: fit-content;
+    width: fit-content;
+    padding: 10px;
+    margin-left: 750px;
+    text-align: center;
+}
+.h2{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    color: white;
+    font-size: 30px;
+    height: fit-content;
+    width: fit-content;
+    padding: 10px;
+    margin-left: 80px;
+    text-align: center;
+}
+.heart{
+    display: inline;
+    
+}
+.purehead{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    font-size:20px;
+    
+}
+.pure{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color:red;
+    font-size:20px;
+    margin-right: 450px;
+    
+}
+.emblemhead{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    font-size: 20px;
+    
+}
+.emblem{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color:red;
+    font-size: 20px;
+    margin-right: 500px;
+    
+}
+p{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    color:yellow;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+    height: fit-content;
+    width: fit-content;   
+    text-align: center;
+    align-items: center;
+}
+.txt{
+   display: flex;
+   text-align: center;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+}
+.links{
+    background-color: blue;
+    width: fit-content;
+    height: fit-content;
+}
+.video{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
